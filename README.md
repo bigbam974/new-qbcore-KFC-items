@@ -1,7 +1,7 @@
 # new-qbcore-KFC-items
 New qb-core Framework Items
 
-this is to just getr them into the server you have to make a shop accordingly to the script your using
+this is to just get them into the server you have to make a shop accordingly to the script your using
 
 join discords for support
 
